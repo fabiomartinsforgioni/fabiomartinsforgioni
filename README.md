@@ -2,6 +2,8 @@
 
 **Analista de Sistemas | Consultor TOTVS Protheus**
 
+[LinkedIn](https://www.linkedin.com/in/fabioforgioni/) · [Projeto ORDAVIK](https://github.com/fabiomartinsforgioni/Ordavik)
+
 Atuo com análise técnico-funcional, desenvolvimento, sustentação e integração de sistemas empresariais. Meu foco é transformar requisitos e regras de negócio em soluções confiáveis, combinando conhecimento de processos com desenvolvimento de software.
 
 ## 🎯 Atuação profissional
