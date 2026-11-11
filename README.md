@@ -1,42 +1,43 @@
-# Olá, eu sou o Fábio Martins Forgioni
+# Olá, eu sou o Fábio Martins Forgioni 👋
 
-**Análise de Sistemas · Desenvolvimento de Software · ERP, Integrações e Dados**
+**Analista de Sistemas | Consultor TOTVS Protheus**
 
-Sou Analista de Sistemas na Fabritech e atuo com consultoria, desenvolvimento e sustentação de soluções TOTVS Protheus. Trabalho com ADVPL/TL++, SQL, APIs REST e integrações, conectando regras de negócio à implementação de soluções para o dia a dia das empresas.
+Atuo com análise técnico-funcional, desenvolvimento, sustentação e integração de sistemas empresariais. Meu foco é transformar requisitos e regras de negócio em soluções confiáveis, combinando conhecimento de processos com desenvolvimento de software.
 
-Atualmente, curso **Engenharia de Software no Centro Universitário União das Américas Descomplica** e desenvolvo projetos próprios para ampliar minha experiência em desenvolvimento de software.
+## 🎯 Atuação profissional
 
-## Minha atuação
+- Consultoria e desenvolvimento no **TOTVS Protheus**, com **ADVPL/TLPP**, customizações, pontos de entrada e rotinas MVC.
+- Análise de requisitos, diagnóstico de problemas, sustentação e melhoria de processos.
+- Integrações entre sistemas por meio de **APIs REST**, JSON e rotinas de processamento.
+- Consultas e análise de dados com **SQL**, incluindo investigação de inconsistências.
+- Conhecimento de processos corporativos, como Compras, Estoque, Faturamento, Financeiro, Fiscal e Contábil.
 
-- Desenvolvimento de customizações em ADVPL/TL++, pontos de entrada, rotinas MVC e Jobs.
-- Integrações entre sistemas, com APIs REST, JSON e processamento de retornos.
-- Consultas SQL, análise de dados e investigação de inconsistências.
-- Suporte e sustentação de sistemas corporativos, diagnóstico de incidentes e melhorias de processos.
-- Levantamento de requisitos, análise técnico-funcional, testes e acompanhamento de implantações.
-- Atuação em processos de Compras, Estoque/Custos, Faturamento, Financeiro, Fiscal e Contábil.
+## 🚀 Engenharia de Software e IA
 
-## Tecnologias e aprendizado
+Curso **Engenharia de Software** e desenvolvo projetos próprios para aprofundar conhecimentos em arquitetura de aplicações, modelagem de dados, desenvolvimento web, testes e versionamento.
 
-| Contexto | Tecnologias e práticas |
+Também exploro a **Inteligência Artificial aplicada ao ciclo de desenvolvimento de software**, utilizando ferramentas de IA como apoio à análise de requisitos, estruturação de soluções, implementação, revisão, documentação e aprendizado. As decisões técnicas, validações e responsabilidade pelo código continuam sob análise humana.
+
+## 🛠️ Tecnologias e práticas
+
+| Área | Conhecimentos |
 | --- | --- |
-| Experiência profissional | TOTVS Protheus, ADVPL/TL++, SQL, APIs REST, JSON, MVC e Jobs |
-| Aplicação nos projetos pessoais | JavaScript, HTML5, CSS3, Bootstrap, Git e GitHub |
-| Próximas etapas de estudo | TypeScript, Angular, Python, desenvolvimento de APIs e bancos de dados |
+| ERP e sistemas corporativos | TOTVS Protheus, ADVPL, TLPP, MVC e integrações |
+| Bancos de dados | SQL, SQL Server, Oracle e PostgreSQL |
+| Desenvolvimento web | JavaScript, TypeScript, HTML, CSS, Bootstrap e Angular |
+| Backend e APIs | Node.js, Python, Django e APIs REST |
+| Engenharia de Software | Git, GitHub, modelagem de dados, testes e documentação |
 
-## Projeto em destaque
+## 📌 Projeto público em destaque
 
-### [TaskFlow](https://github.com/fabiomartinsforgioni/TaskFlow)
+### [ORDAVIK](https://github.com/fabiomartinsforgioni/Ordavik)
 
-Aplicação de gerenciamento de tarefas desenvolvida com **JavaScript, HTML e CSS**, utilizada como projeto prático de aprendizado em Engenharia de Software.
+Aplicação web de organização de tarefas, demandas, compromissos e agenda. Projeto em evolução, desenvolvido para praticar Engenharia de Software, usabilidade, organização de código e versionamento.
 
-- Cadastro, edição, conclusão e exclusão de tarefas.
-- Definição de prioridades, filtros por status e indicadores de progresso.
-- Persistência no navegador com `localStorage`.
-- Interface responsiva, temas claro e escuro e recursos de acessibilidade.
-- Evolução por sprints, com versionamento, revisão de código e guia de estudos.
+**Tecnologias:** HTML, CSS, JavaScript e Bootstrap.
 
-Neste repositório, registro minha evolução na construção, documentação e manutenção de uma aplicação, praticando o uso de Git e GitHub ao longo do desenvolvimento.
+> Outros estudos e projetos de software seguem em desenvolvimento, inclusive em repositórios privados.
 
-## Contato
+## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/fabioforgioni/)
